@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="flex w-full h-full justify-between items-center bg-blue-400">
       <div className="pl-4 py-2">
-        <h1 className="text-gray-50">Kevin's Blog</h1>
+        <h1 className="text-gray-50">Kevin&apos;s Blog</h1>
       </div>
       <div>
         <ul className="flex pr-4">
